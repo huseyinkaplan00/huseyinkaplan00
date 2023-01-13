@@ -17,7 +17,7 @@
 </div>
 
 
-<p align="center">### Hi there my name is Huseyin Kaplan <img src="https://i.giphy.com/media/5tkQ2D8oxYBVKwWNMV/giphy.webp" width="35px" alt="smileEmoji"></p>
+<p align="center">### Hi there my name is Huseyin Kaplan <img src="https://media.giphy.com/media/l1J9MT9T0ZG2xvWCc/giphy.gif" width="35px" alt="smileEmoji"></p>
 
 <!--
 **huseyinkaplan00/huseyinkaplan00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
