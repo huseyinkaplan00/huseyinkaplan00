@@ -3,7 +3,7 @@
 </div>
 
 
-<p style="text-align:center">### Hi there my name is Huseyin Kaplan👋 </p>
+### Hi there my name is Huseyin Kaplan👋
 
 <!--
 **huseyinkaplan00/huseyinkaplan00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
