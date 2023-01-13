@@ -3,6 +3,7 @@
 
   <img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="25%"/>
   
+  
   <div id="badges">
   <a href="https://www.linkedin.com/in/h%C3%BCseyin-kaplan-51500824b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,6 +14,9 @@
   <a href="https://twitter.com/iamcankaplan">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+    
+    <img src="https://komarev.com/ghpvc/?username=your-github-huseyinkaplan00&style=flat-square&color=blue" alt=""/>
+
 </div>
   
   
