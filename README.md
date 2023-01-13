@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1 align="center">Hi there I'm Huseyin Kaplan <img src="https://media.giphy.com/media/w8sSD0Q5tkW9pO3fz6/giphy.gif" width="55px" alt="smileEmoji"></h1>
+  <h1 align="center">Hi there I'm Huseyin Kaplan <img src="https://media.giphy.com/media/l1J9MT9T0ZG2xvWCc/giphy.gif" width="55px" alt="smileEmoji"></h1>
 
   <img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="25%"/>
   
