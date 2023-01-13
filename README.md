@@ -18,7 +18,7 @@
   
 
 </div>
-  <img src="https://komarev.com/ghpvc/?huseyinkaplan00&style=flat-square&color=blue" alt=""/>
+
   
 </div>
 
