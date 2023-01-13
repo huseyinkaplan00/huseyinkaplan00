@@ -1,4 +1,6 @@
 <div id="header" align="center">
+  <h1 align="center">Hi there my name is Huseyin Kaplan <img src="https://media.giphy.com/media/l1J9MT9T0ZG2xvWCc/giphy.gif" width="35px" alt="smileEmoji"></h1>
+
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="25%"/>
   
   <div id="badges">
@@ -17,7 +19,6 @@
 </div>
 
 
-<h1 align="center">Hi there my name is Huseyin Kaplan <img src="https://media.giphy.com/media/l1J9MT9T0ZG2xvWCc/giphy.gif" width="35px" alt="smileEmoji"></h1>
 
 <!--
 **huseyinkaplan00/huseyinkaplan00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
