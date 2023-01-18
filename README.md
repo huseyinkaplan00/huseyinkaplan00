@@ -28,7 +28,7 @@ I am a Front-End Developer  <img src="https://media.giphy.com/media/3iyKHMIKg5VW
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Huseyin Kaplan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%BCseyin-kaplan-51500824b/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%BCseyin-kaplan-51500824b/)
 
 
 
