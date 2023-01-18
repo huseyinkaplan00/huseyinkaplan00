@@ -30,5 +30,7 @@ I am a Front-End Developer  <img src="https://media.giphy.com/media/3iyKHMIKg5VW
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-HuseyinKaplan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%BCseyin-kaplan-51500824b/)
 
+---
 
+### :hammer_and_wrench: Languages and Tools :
 
