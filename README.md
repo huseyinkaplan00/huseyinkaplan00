@@ -48,3 +48,7 @@ I am a Front-End Developer  <img src="https://media.giphy.com/media/3iyKHMIKg5VW
           
 
 </div>
+
+---
+
+### :fire: My Stats :
