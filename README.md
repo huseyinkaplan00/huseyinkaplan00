@@ -20,7 +20,7 @@
 
 ---
 ### :man_technologist: About Me :
-I am a Front-End Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Turkey :tr: .
+I am a Front-End Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Turkey  <img src="https://media.giphy.com/media/kDHIH059oU8ut2eXtv/giphy.gif" width="30px">.
 
 <div align="center"> 
 
