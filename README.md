@@ -17,7 +17,6 @@
   <img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="25%"/>
 
 </div>
-
 ---
 ### :man_technologist: About Me :
 I am a Front-End Developer  <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="30"> from Turkey.
@@ -29,11 +28,8 @@ I am a Front-End Developer  <img src="https://media.giphy.com/media/3iyKHMIKg5VW
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-HuseyinKaplan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%BCseyin-kaplan-51500824b/)
-
 ---
-
 ### :hammer_and_wrench: Languages and Tools :
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -45,10 +41,6 @@ I am a Front-End Developer  <img src="https://media.giphy.com/media/3iyKHMIKg5VW
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"  title="illustrator" **alt="illustrator" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="photoshop" **alt="photoshop" width="40" height="40"/>
-          
-
 </div>
-
 ---
-
 ### :fire: My Stats :
