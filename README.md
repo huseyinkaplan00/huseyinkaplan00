@@ -24,7 +24,7 @@
 I am a Front-End Developer  <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="30"> from Turkey.
 
 - :telescope: I’m working as a frontend developer for building web applications.
--: mail:  You can contact me at [kaplanhuseyin1999@gmail.com](mailto:kaplanhuseyin1999@gmail.com)
+- :e-mail:  You can contact me at [kaplanhuseyin1999@gmail.com](mailto:kaplanhuseyin1999@gmail.com)
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
