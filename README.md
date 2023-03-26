@@ -1,9 +1,5 @@
-  ![](src/header.svg)
-
-
-
-
 <div id="header" align="center">
+ <img src="src/header.svg"/>
   <h1 align="center">Hey there I'm Huseyin Kaplan <img src="https://media.giphy.com/media/l1J9MT9T0ZG2xvWCc/giphy.gif" width="55px" alt="smileEmoji"></h1>
   </br>  
   <div id="badges">
