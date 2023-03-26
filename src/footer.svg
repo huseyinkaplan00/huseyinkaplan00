@@ -16,18 +16,20 @@ svg {
 }
 
 .wave:hover {
-  fill: #fff;
+  fill: #0A0C10;
 }
 
 #wave2 {
   animation-duration:6s;
   animation-direction: reverse;
   opacity: .9;
+  fill: #0A0C10;
 }
 
 #wave3 {
   animation-duration: 3s;
   opacity:.6;
+   fill: #0A0C10;
 }
 
 @keyframes wave {
