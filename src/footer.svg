@@ -1,51 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 115 25">
-<style>
-
-svg {
-  width:110vw;
-  position:fixed;
-  top:-5px;
-  transform: rotate(360deg);
-  overflow:visible;
-}
-
-.wave {
-  animation: wave 3s linear;
-  animation-iteration-count:infinite;
-  fill: #0A0C10;  
-}
-
-.wave:hover {
-  fill: #0A0C10;
-}
-
-#wave2 {
-  animation-duration:6s;
-  animation-direction: reverse;
-  opacity: .9;
-
-}
-
-#wave3 {
-  animation-duration: 3s;
-  opacity:.6;
-  
-}
-
-@keyframes wave {
-  to {transform: translateX(-100%);}
-}
-
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Calque_1" x="0px" y="0px" viewBox="0 0 1300 550" style="enable-background:new 0 0 1300 550;" xml:space="preserve">
+<style type="text/css">
+	.st1{opacity:0.6;fill:#4C95DB;enable-background:new;}
 </style>
 
- <defs> 
-    <filter id="anim">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur"/>
-      <feColorMatrix in="blur" mode="matrix" values="            1 0 0 0 0              0 1 0 0 0              0 0 1 0 0              0 0 0 13 -9" result="anim"/>
-      <xfeBlend in="SourceGraphic" in2="anim"/>
-  	</filter>
-    <path id="wave" d="M 0,10 C 30,10 30,15 60,15 90,15 90,10 120,10 150,10 150,15 180,15 210,15 210,10 240,10 v 28 h -240 z"/>
-  </defs> 
-  <use id="wave2" class="wave" xlink:href="#wave" x="0" y="0"/>
-  <use id="wave3" class="wave" xlink:href="#wave" x="0" y="-2"/> 
+    <path class="st1" d="M 0 250 C 600 450 650 100 1300 250 L 1300 550 L 0 550 L 0 250">
+		<animate attributeName="d" dur="5s" begin="1s" values="M 0 250 C 600 450 650 100 1300 250 L 1300 550 L 0 550 L 0 250;                 M 0 250 C 600 100 650 450 1300 250 L 1300 550 L 0 550 L 0 250;     M 0 250 C 600 450 650 100 1300 250 L 1300 550 L 0 550 L 0 250" repeatCount="indefinite"/>
+	</path>
+
+	<path class="st1" d="M 0 250 C 600 100 650 450 1300 250 L 1300 550 L 0 550 L 0 250">
+		<animate attributeName="d" dur="5s" values="M 0 250 C 600 100 650 450 1300 250 L 1300 550 L 0 550 L 0 250;                 M 0 250 C 600 450 650 100 1300 250 L 1300 550 L 0 550 L 0 250;     M 0 250 C 600 100 650 450 1300 250 L 1300 550 L 0 550 L 0 250" repeatCount="indefinite"/>
+	</path>
+
+	<path class="st1" d="M 0 250 C 950 350 950 150 1300 250 L 1300 550 L 0 550 L 0 250">
+		<animate attributeName="d" dur="5s" begin="2s" values="M 0 250 C 950 350 950 150 1300 250 L 1300 550 L 0 550 L 0 250;                 M 0 250 C 350 150 350 350 1300 250 L 1300 550 L 0 550 L 0 250;     M 0 250 C 950 350 950 150 1300 250 L 1300 550 L 0 550 L 0 250" repeatCount="indefinite"/>
+	</path>
+
+	<path class="st1" d="M 0 250 C 350 150 350 350 1300 250 L 1300 550 L 0 550 L 0 250">
+		<animate attributeName="d" dur="5s" values="M 0 250 C 350 150 350 350 1300 250 L 1300 550 L 0 550 L 0 250;                 M 0 250 C 950 350 950 150 1300 250 L 1300 550 L 0 550 L 0 250;     M 0 250 C 350 150 350 350 1300 250 L 1300 550 L 0 550 L 0 250" repeatCount="indefinite"/>
+	</path>
+
+	<rect width="1300" height="550" fill="none" stroke="#C9CED8"/>
 </svg>
