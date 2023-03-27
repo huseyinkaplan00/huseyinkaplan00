@@ -1,7 +1,7 @@
 <div id="header" align="center">
  <img src="src/header.svg"/>
  <!-- typing svg -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Charmonman&size=25&duration=4999&pause=1000&color=B2A98D&background=C1FF6D00&center=true&vCenter=true&width=500&lines=Hey+There+%2C+I'm+Huseyin+Kaplan+%F0%9F%98%8E;I+am+front+end+developer+%F0%9F%96%A5%EF%B8%8F;I+improve+myself+every+day%2C+and+i+enjoy+it+%F0%9F%98%83++;+thanks+for+visiting+my+profile+%F0%9F%A4%A9;%F0%9F%91%87You+can+contact+me+using+the+buttons+below%F0%9F%91%87" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Charmonman&size=25&duration=4999&pause=1000&color=B2A98D&background=C1FF6D00&center=true&vCenter=true&width=500&lines=Hey+There+%2C+I'm+Huseyin+Kaplan+%F0%9F%98%8E;I+am+front+end+developer+%F0%9F%96%A5%EF%B8%8F;I+improve+myself+every+day%2C+and+i+enjoy+it+%F0%9F%98%83++;+thanks+for+visiting+my+profile+%F0%9F%A4%A9;%F0%9F%91%87You+can+contact+me+using+the+buttons+below%F0%9F%91%87" alt="Typing SVG" /></a>
  
   </br>  
   <div id="badges">
