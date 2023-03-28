@@ -8,11 +8,10 @@
   <a href="https://www.linkedin.com/in/h%C3%BCseyin-kaplan-51500824b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/@iamcankaplan">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/iamcankaplan">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  
+ 
+  <a href="mailto:kaplanhuseyin1999@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
       </br>
   <img src="https://komarev.com/ghpvc/?username=huseyinkaplan00&style=flat-square&color=blue" alt=""/>
