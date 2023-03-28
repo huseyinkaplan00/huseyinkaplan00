@@ -2,18 +2,22 @@
  <img src="src/header.svg"/>
  <!-- typing svg -->
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Charmonman&size=25&duration=4999&pause=1000&color=B2A98D&background=C1FF6D00&center=true&vCenter=true&width=500&lines=Hey+There+%2C+I'm+Huseyin+Kaplan+%F0%9F%98%8E;I+am+front+end+developer+%F0%9F%96%A5%EF%B8%8F;I+improve+myself+every+day%2C+and+i+enjoy+it+%F0%9F%98%83++;+thanks+for+visiting+my+profile+%F0%9F%A4%A9;%F0%9F%91%87You+can+contact+me+using+the+buttons+below%F0%9F%91%87" alt="Typing SVG" /></a>
+ <!-- badges -->
  
   </br>  
   <div id="badges">
-  <a href="https://www.linkedin.com/in/h%C3%BCseyin-kaplan-51500824b">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
  
-  <a href="mailto:kaplanhuseyin1999@gmail.com">
+ <a target="_blank" href="mailto:kaplanhuseyin1999@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+ 
+ <a href="https://www.linkedin.com/in/h%C3%BCseyin-kaplan-51500824b">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
       </br>
+  
+ 
+  
   <img src="https://komarev.com/ghpvc/?username=huseyinkaplan00&style=flat-square&color=blue" alt=""/>
 </div>
   
