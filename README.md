@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
 
-<a href="https://www.linkedin.com/in/h%C3%BCseyin-kaplan-51500824b">
+<a href="https://www.linkedin.com/in/huseyin-kaplan">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
  
