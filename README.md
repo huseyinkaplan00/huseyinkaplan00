@@ -117,7 +117,16 @@ I’m a **Full-Stack Web & Mobile Developer** based in **Istanbul (GMT+3)**, bui
   <summary><b>Weekly dev metrics (auto-updated)</b></summary>
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```txt
+From: 30 November 2025 - To: 30 December 2025
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
 </details>
 
 ---
