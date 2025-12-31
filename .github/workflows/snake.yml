@@ -1,0 +1,26 @@
+name: Snake
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake svgs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: huseyinkaplan00
+          outputs: |
+            assets/github-snake.svg
+            assets/github-snake-dark.svg?palette=github-dark
+
+      - name: Commit snake svgs
+        uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_message: "chore: update snake"

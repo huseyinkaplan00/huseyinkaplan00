@@ -1,83 +1,140 @@
 <div align="center">
- 
-<img src="src/header.svg"/>
-<!-- typing svg -->
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Charmonman&size=25&duration=4999&pause=1000&color=B2A98D&background=C1FF6D00&center=true&vCenter=true&width=500&lines=Hey+There+%2C+I'm+Huseyin+Kaplan+%F0%9F%98%8E;I+am+front+end+developer+%F0%9F%96%A5%EF%B8%8F;I+improve+myself+every+day%2C+and+i+enjoy+it+%F0%9F%98%83++;+thanks+for+visiting+my+profile+%F0%9F%A4%A9;%F0%9F%91%87You+can+contact+me+using+the+buttons+below%F0%9F%91%87" alt="Typing SVG" /></a>
-<!-- badges -->
+  <img src="src/header.svg" alt="Header" />
 
-</br>  
-<div id="badges">
+  <a href="#">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Charmonman&size=26&duration=4200&pause=900&color=B2A98D&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Huseyin+Kaplan+%F0%9F%91%8B;Full-Stack+Web+%26+Mobile+Developer;React+%7C+Next.js+%7C+TypeScript+%7C+React+Native;Python+Django+%7C+PostgreSQL+%7C+REST+APIs;Performance+%2F+Core+Web+Vitals+%2F+Accessibility;Open+to+Remote+Mid%E2%80%93Senior+Roles"
+      alt="Typing SVG"
+    />
+  </a>
 
-<a target="_blank" href="mailto:kaplanhuseyin1999@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-</a>
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 
-<a href="https://www.linkedin.com/in/huseyin-kaplan">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
- 
- <a href="https://medium.com/@huseyin-kaplan">
-<img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-</a>
- 
- 
-</br>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=huseyinkaplan00&style=flat-square&color=blue" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/huseyinkaplan00?style=flat-square" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/huseyinkaplan00?affiliations=OWNER%2CCOLLABORATOR&style=flat-square" alt="Stars" />
+  </p>
 
-
-
-<img src="https://komarev.com/ghpvc/?username=huseyinkaplan00&style=flat-square&color=blue" alt=""/>
+  <p>
+    <b>Keywords:</b> React Developer • Next.js Developer • Full Stack Engineer • TypeScript • React Native • Django • PostgreSQL • REST APIs • CI/CD • GitHub Actions • Core Web Vitals • Performance Optimization • Accessibility • E-commerce • Search • Recommendations • Push Notifications (FCM)
+  </p>
 </div>
 
-<img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="25%"/>
+---
 
-
+## Quick Navigation
+- [About](#about)
+- [What I build](#what-i-build)
+- [Tech Stack](#tech-stack)
+- [Featured Work](#featured-work)
+- [Metrics](#metrics)
+- [Open Source Visuals](#open-source-visuals)
+- [WakaTime](#wakatime)
+- [Latest Writing](#latest-writing)
+- [Contact](#contact)
 
 ---
 
-### :man_technologist: About Me :
-I am a Front-End Developer  <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="30"> from Turkey.
+## About
+I’m a **Full-Stack Web & Mobile Developer** based in **Istanbul (GMT+3)**, building fast, accessible products with a strong focus on **performance**, **DX**, and **measurable business impact**.
 
- :telescope: I’m working as a frontend developer for building web applications. <br/>
- :e-mail:  You can contact me at [kaplanhuseyin1999@gmail.com](mailto:kaplanhuseyin1999@gmail.com) <br/>
- :seedling: Exploring Technical Content Writing.<br/>
- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.<br/>
-
- 
+- **Frontend:** React, Next.js, TypeScript, Tailwind, modern UI systems
+- **Mobile:** React Native
+- **Backend:** Python (Django), SQL, REST APIs
+- **Focus:** Core Web Vitals, clean architecture, scalable UI, data-driven features
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+
+## What I build
+| Area | What I ship | What I care about |
+|---|---|---|
+| Web Apps | dashboards, landing pages, component systems | accessibility, UX, performance |
+| E-commerce | search, recommendations, campaign tooling | speed, tracking, conversion |
+| Mobile | RN apps, notification flows | reliability, smooth UI |
+| Backend | Django APIs, integrations, SQL | correctness, maintainability |
+
+---
+
+## Tech Stack
 <div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="angularjs" alt="angularjs" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="vuejs" alt="vuejs" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"  title="materialui" **alt="materialui" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  title="bootstrap" **alt="bootstrap" width="40" height="40"/>&nbsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sketch/sketch-original.svg"  title="sketch" **alt="sketch" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" title="firebase" alt="firebase" width="40" height="40"/>&nbsp;  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="photoshop" **alt="photoshop" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" title="illustrator" **alt="illustrator" width="40" height="40"/>&nbsp;     
-<img src="https://svgshare.com/i/w13.svg" title="figma" **alt="figma" width="40" height="40"/>
-
-
-
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="34" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="34" alt="Tailwind" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="34" alt="Sass" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="34" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="34" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="34" alt="AWS" />
 </div>
 
 ---
-### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=huseyinkaplan00&theme=dark&border_radius=10)](https://git.io/streak-stats)
+## Featured Work
+> Linkleri sonra sen ekleyeceksin diye `#` bıraktım.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinkaplan00&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<img src="src/footer.svg"/>
+| Project | Outcome | Stack | Highlights |
+|---|---|---|---|
+| # | Performance-focused web experience | React / Next.js / TS | Core Web Vitals, UI refactor, measurable speedups |
+| # | Search & discovery feature set | React / APIs | tracking, UX, fast filters, scalable UI |
+| # | Mobile notification flows | React Native / Firebase | FCM, reliable delivery, clean architecture |
+| # | Backend integrations | Django / SQL | clean endpoints, maintainable queries |
 
-</div>
+---
+
+## Metrics
+> Bu bölüm “public stats card” yerine **Actions ile repoya üretilen SVG** kullanır (daha stabil).
+
+<img src="assets/metrics.svg" alt="GitHub Metrics" width="100%" />
+
+---
+
+## Open Source Visuals
+
+### Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=huseyinkaplan00&theme=github-compact&hide_border=true&radius=12" alt="Activity Graph" width="100%" />
+
+### Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=huseyinkaplan00&theme=tokyonight&no-frame=true&column=-1&margin-w=8" alt="Trophies" width="100%" />
+
+### Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
+  <img alt="github-snake" src="assets/github-snake.svg" width="100%" />
+</picture>
+
+---
+
+## WakaTime
+<details>
+  <summary><b>Weekly dev metrics (auto-updated)</b></summary>
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>
+
+---
+
+## Latest Writing
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## Contact
+- Portfolio: #
+- LinkedIn: #
+- Medium: #
+- Email: #
+<img src="src/footer.svg" alt="Footer" />
