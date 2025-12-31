@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="src/header.svg" alt="Header" />
+  <img src="https://raw.githubusercontent.com/huseyinkaplan00/huseyinkaplan00/main/src/header.svg?v=2" alt="Header" />
 
   <a href="https://huseyinkaplan.dev">
     <img
@@ -148,4 +148,4 @@ No activity tracked
 - LinkedIn: https://www.linkedin.com/in/huseyin-kaplan
 - Medium: https://medium.com/@huseyin-kaplan
 - Email: kaplanhuseyin1999@gmail.com
-<img src="src/footer.svg" alt="Footer" />
+<img src="https://raw.githubusercontent.com/huseyinkaplan00/huseyinkaplan00/main/src/footer.svg?v=2" alt="Footer" />
