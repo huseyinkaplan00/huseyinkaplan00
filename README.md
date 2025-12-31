@@ -1,7 +1,7 @@
 <div align="center">
   <img src="src/header.svg" alt="Header" />
 
-  <a href="#">
+  <a href="https://huseyinkaplan.dev">
     <img
       src="https://readme-typing-svg.demolab.com?font=Charmonman&size=26&duration=4200&pause=900&color=B2A98D&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Huseyin+Kaplan+%F0%9F%91%8B;Full-Stack+Web+%26+Mobile+Developer;React+%7C+Next.js+%7C+TypeScript+%7C+React+Native;Python+Django+%7C+PostgreSQL+%7C+REST+APIs;Performance+%2F+Core+Web+Vitals+%2F+Accessibility;Open+to+Remote+Mid%E2%80%93Senior+Roles"
       alt="Typing SVG"
@@ -9,10 +9,10 @@
   </a>
 
   <p>
-    <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://huseyinkaplan.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/huseyin-kaplan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://medium.com/@huseyin-kaplan"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+    <a href="mailto:kaplanhuseyin1999@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
   <p>
@@ -82,20 +82,16 @@ I’m a **Full-Stack Web & Mobile Developer** based in **Istanbul (GMT+3)**, bui
 ---
 
 ## Featured Work
-> Linkleri sonra sen ekleyeceksin diye `#` bıraktım.
-
 | Project | Outcome | Stack | Highlights |
 |---|---|---|---|
-| # | Performance-focused web experience | React / Next.js / TS | Core Web Vitals, UI refactor, measurable speedups |
-| # | Search & discovery feature set | React / APIs | tracking, UX, fast filters, scalable UI |
-| # | Mobile notification flows | React Native / Firebase | FCM, reliable delivery, clean architecture |
-| # | Backend integrations | Django / SQL | clean endpoints, maintainable queries |
+| Project 1 | Performance-focused web experience | React / Next.js / TS | Core Web Vitals, UI refactor, measurable speedups |
+| Project 2 | Search & discovery feature set | React / APIs | tracking, UX, fast filters, scalable UI |
+| Project 3 | Mobile notification flows | React Native / Firebase | FCM, reliable delivery, clean architecture |
+| Project 4 | Backend integrations | Django / SQL | clean endpoints, maintainable queries |
 
 ---
 
 ## Metrics
-> Bu bölüm “public stats card” yerine **Actions ile repoya üretilen SVG** kullanır (daha stabil).
-
 <img src="assets/metrics.svg" alt="GitHub Metrics" width="100%" />
 
 ---
@@ -133,8 +129,8 @@ I’m a **Full-Stack Web & Mobile Developer** based in **Istanbul (GMT+3)**, bui
 ---
 
 ## Contact
-- Portfolio: #
-- LinkedIn: #
-- Medium: #
-- Email: #
+- Portfolio: https://huseyinkaplan.dev
+- LinkedIn: https://www.linkedin.com/in/huseyin-kaplan
+- Medium: https://medium.com/@huseyin-kaplan
+- Email: kaplanhuseyin1999@gmail.com
 <img src="src/footer.svg" alt="Footer" />
