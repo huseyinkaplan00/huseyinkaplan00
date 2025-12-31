@@ -1,22 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Calque_1" x="0px" y="0px" viewBox="0 0 1300 550" style="enable-background:new 0 0 1300 550;" xml:space="preserve">
-<style type="text/css">
-	.st1{opacity:0.6;fill:#6E4849;enable-background:new;}
-</style>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="title desc">
+  <title id="title">Footer wave</title>
+  <desc id="desc">Subtle gradient wave for a clean footer.</desc>
+  <defs>
+    <linearGradient id="footer-bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f4efe7" />
+      <stop offset="100%" stop-color="#e9dfd0" />
+    </linearGradient>
+    <linearGradient id="footer-wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#b2a98d" />
+      <stop offset="100%" stop-color="#d8cbb6" />
+    </linearGradient>
+  </defs>
 
-    <path class="st1" d="M 0 250 C 600 450 650 100 1300 250 L 1300 550 L 0 550 L 0 250">
-		<animate attributeName="d" dur="5s" begin="1s" values="M 0 250 C 600 450 650 100 1300 250 L 1300 550 L 0 550 L 0 250;                 M 0 250 C 600 100 650 450 1300 250 L 1300 550 L 0 550 L 0 250;     M 0 250 C 600 450 650 100 1300 250 L 1300 550 L 0 550 L 0 250" repeatCount="indefinite"/>
-	</path>
-
-	<path class="st1" d="M 0 250 C 600 100 650 450 1300 250 L 1300 550 L 0 550 L 0 250">
-		<animate attributeName="d" dur="5s" values="M 0 250 C 600 100 650 450 1300 250 L 1300 550 L 0 550 L 0 250;                 M 0 250 C 600 450 650 100 1300 250 L 1300 550 L 0 550 L 0 250;     M 0 250 C 600 100 650 450 1300 250 L 1300 550 L 0 550 L 0 250" repeatCount="indefinite"/>
-	</path>
-
-	<path class="st1" d="M 0 250 C 950 350 950 150 1300 250 L 1300 550 L 0 550 L 0 250">
-		<animate attributeName="d" dur="5s" begin="2s" values="M 0 250 C 950 350 950 150 1300 250 L 1300 550 L 0 550 L 0 250;                 M 0 250 C 350 150 350 350 1300 250 L 1300 550 L 0 550 L 0 250;     M 0 250 C 950 350 950 150 1300 250 L 1300 550 L 0 550 L 0 250" repeatCount="indefinite"/>
-	</path>
-
-	<path class="st1" d="M 0 250 C 350 150 350 350 1300 250 L 1300 550 L 0 550 L 0 250">
-		<animate attributeName="d" dur="5s" values="M 0 250 C 350 150 350 350 1300 250 L 1300 550 L 0 550 L 0 250;                 M 0 250 C 950 350 950 150 1300 250 L 1300 550 L 0 550 L 0 250;     M 0 250 C 350 150 350 350 1300 250 L 1300 550 L 0 550 L 0 250" repeatCount="indefinite"/>
-	</path>
-
+  <rect width="1200" height="180" fill="url(#footer-bg)" />
+  <path d="M 0 90 C 260 140 520 60 780 100 C 980 130 1100 120 1200 95 L 1200 180 L 0 180 Z" fill="url(#footer-wave)" opacity="0.7" />
+  <path d="M 0 80 C 260 130 520 50 780 90 C 980 120 1100 110 1200 85" fill="none" stroke="#b2a98d" stroke-width="3" opacity="0.5" />
 </svg>

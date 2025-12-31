@@ -1,33 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="200" viewBox="0 0 854 200">
-    <style>
-                .text {
-            font-size: 60px;
-            font-weight: 300;
-            font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
-        }
-        .desc {
-            font-size: 20px;
-            font-weight: 500;
-            font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
-        }
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Huseyin Kaplan - Full-Stack Web and Mobile Developer</title>
+  <desc id="desc">Modern header with warm gradient, subtle grid, and accent shapes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f9f7f3" />
+      <stop offset="100%" stop-color="#efe7dc" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#b2a98d" />
+      <stop offset="100%" stop-color="#d8cbb6" />
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#cfc6b3" stroke-width="1" opacity="0.18" />
+    </pattern>
+  </defs>
 
-            </style>
-    <g transform="translate(427, 100) scale(1, 1) translate(-427, -100)">
+  <rect width="1200" height="280" fill="url(#bg)" />
+  <rect width="1200" height="280" fill="url(#grid)" />
 
-                    <defs>
-        <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" stop-color="#fbf9fc"/><stop offset="100%" stop-color="#a26262"/>
-        </linearGradient>
-    </defs>
+  <circle cx="1040" cy="40" r="130" fill="#b2a98d" opacity="0.12" />
+  <circle cx="150" cy="250" r="160" fill="#b2a98d" opacity="0.1" />
 
-                    <path d="" fill="url(#linear)" opacity="0.4">
-    <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z;M0 0L 0 145Q 213.5 160 427 140T 854 130L 854 0 Z;M0 0L 0 165Q 213.5 135 427 165T 854 130L 854 0 Z;M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z"/>
-</path>
-<path d="" fill="url(#linear)" opacity="0.4">
-    <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z;M0 0L 0 150Q 213.5 120 427 120T 854 140L 854 0 Z;M0 0L 0 145Q 213.5 125 427 150T 854 165L 854 0 Z;M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z"/>
-</path>
-    </g>
+  <path d="M 0 210 C 220 170 410 250 620 220 C 820 190 1010 245 1200 205 L 1200 280 L 0 280 Z" fill="url(#accent)" opacity="0.65" />
 
-            <text text-anchor="middle" alignment-baseline="middle" x="50%" y="30%" class="text" style="fill: #3e0b0b80;" stroke="#none" stroke-width="10"> ✨ Welcome to my profile ✨</text>
-
+  <g font-family="Sora, Poppins, Montserrat, Segoe UI, Arial, sans-serif" fill="#1f2937">
+    <text x="90" y="120" font-size="44" font-weight="700">Huseyin Kaplan</text>
+    <rect x="90" y="132" width="120" height="6" rx="3" fill="#b2a98d" />
+    <text x="90" y="170" font-size="20" font-weight="600" fill="#4b5563">Full-Stack Web and Mobile Developer</text>
+    <text x="90" y="200" font-size="16" font-weight="400" fill="#6b7280">Performance-focused engineering for fast, accessible products</text>
+  </g>
 </svg>
