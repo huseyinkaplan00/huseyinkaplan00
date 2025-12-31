@@ -101,8 +101,8 @@ I’m a **Full-Stack Web & Mobile Developer** based in **Istanbul (GMT+3)**, bui
 ### Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=huseyinkaplan00&theme=github-compact&hide_border=true&radius=12" alt="Activity Graph" width="100%" />
 
-### Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=huseyinkaplan00&theme=tokyonight&no-frame=true&column=-1&margin-w=8" alt="Trophies" width="100%" />
+### Achievements
+<img src="assets/achievements.svg" alt="Achievements" width="100%" />
 
 ### Contribution Snake
 <picture>
